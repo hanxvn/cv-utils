@@ -9,3 +9,6 @@ Two steps to setup NVIDIA CUDA drivers
 
 ### copy_data_between_buckets.py
 Python code to copy data between two buckets in AWS (including config.cfg & list_of_data.csv files)
+
+### open_cv_2_4_13_install.sh
+Script to install opencv 2.4.13
